@@ -6,7 +6,7 @@ const INMUTABLE_CACHE = "inmutable-v1";
 
 //son los archivos que se deben de cargar cuando este en modo offline y fue creados por uno mismo
 const APP_SHELL =[
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
